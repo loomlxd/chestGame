@@ -54,7 +54,7 @@ npm run dev
 Open in browser:
 http://localhost:5173
 
-Live Demo:
+Live Demo: https://my-chest-game.netlify.app
 
 Author
 Lomaka Bohdan
